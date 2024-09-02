@@ -1,0 +1,4 @@
+I have submitting 2 test files
+1. test.ipynb -> when it run, it will generate the output.json.
+2. testWithAccuracy.py -> when we run this file, will get the accuracy of the model.
+3

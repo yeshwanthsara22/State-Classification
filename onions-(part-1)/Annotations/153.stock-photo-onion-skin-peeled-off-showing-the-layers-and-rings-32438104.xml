@@ -1,0 +1,37 @@
+<annotation>
+  <folder></folder>
+  <filename>153.stock-photo-onion-skin-peeled-off-showing-the-layers-and-rings-32438104.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>1500</width>
+    <height>1099</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>onions</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>588.11</xmin>
+      <ymin>106.45</ymin>
+      <xmax>1345.55</xmax>
+      <ymax>762.68</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>states</name>
+        <value>peeled</value>
+      </attribute>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
